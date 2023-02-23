@@ -1,2 +1,5 @@
-_**This project is unmaintained.**_
+# Menu Exporter
+Lets you only export your WordPress menus.
+
+_**Notice: This project is unmaintained.**_
 
