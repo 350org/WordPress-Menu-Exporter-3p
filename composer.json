@@ -1,9 +1,9 @@
 {
-  "name": "350org/WordPress-Menu-Exporter-3p",
+  "name": "350org/wordpress-menu-exporter-3p",
   "description": "Lets you only export your WordPress menus",
   "version": "1.0.0",
   "keywords": ["wordpress", "plugin"],
-  "homepage": "https://github.com/350org/WordPress-Menu-Exporter-3p",
+  "homepage": "https://github.com/350org/wordpress-menu-exporter-3p",
   "authors": [
     {
       "name": "Joe Hoyle - Human Made Limited",
