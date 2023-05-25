@@ -1,6 +1,6 @@
 {
   "name": "350org/wordpress-menu-exporter-3p",
-  "description": "Lets you only export your WordPress menus",
+  "description": "A private repo to host the WordPress Menu Exporter plugin files",
   "version": "1.0.0",
   "keywords": ["wordpress", "plugin"],
   "homepage": "https://github.com/350org/wordpress-menu-exporter-3p",
@@ -11,6 +11,9 @@
     }
   ],
   "type": "wordpress-plugin",
+  "extra": {
+    "installer-name": "WordPress-Menu-Exporter-master"
+  },
   "require": {
     "php": ">=7.0"
   }
