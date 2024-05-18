@@ -1,7 +1,7 @@
 {
   "name": "350org/wordpress-menu-exporter-3p",
   "description": "A private repo to host the WordPress Menu Exporter plugin files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": ["wordpress", "plugin"],
   "homepage": "https://github.com/350org/wordpress-menu-exporter-3p",
   "authors": [
